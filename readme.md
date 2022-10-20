@@ -52,7 +52,6 @@ In this notebook , we have performed text classification using Navie Bayes model
 * [![Python][Python.org]][Python-url]
 * Scikit-learn
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
